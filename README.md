@@ -16,3 +16,7 @@ python3.10.2
 3. test_request.pyを使用することで、カメラとの接続がうまくいっているかを確認してください
 4. 接続がうまくいっていることを確認したのち、face_attendance.pyを実行すると顔認証がスタートします。
 5. attendance_server.pyを実行することで、実行中のPCのIP+8080で出席データを別のPCでも参照可能です。
+
+# コードの詳細
+コードの詳細については以下のQiitaに書きましたので、よろしければ見ていただけると嬉しいです!!
+(https://qiita.com/Y-Watanabe11/items/0b3d423c326782a62f3f)
